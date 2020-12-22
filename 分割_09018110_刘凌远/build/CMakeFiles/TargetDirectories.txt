@@ -1,0 +1,3 @@
+/Users/lly/Desktop/数字图像处理/分割_09018110_刘凌远/build/CMakeFiles/rebuild_cache.dir
+/Users/lly/Desktop/数字图像处理/分割_09018110_刘凌远/build/CMakeFiles/edit_cache.dir
+/Users/lly/Desktop/数字图像处理/分割_09018110_刘凌远/build/CMakeFiles/Main.dir
